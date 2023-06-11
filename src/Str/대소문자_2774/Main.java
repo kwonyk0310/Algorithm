@@ -1,3 +1,5 @@
+package Str.대소문자_2774;
+
 import java.util.Scanner;
 
 public class Main {
